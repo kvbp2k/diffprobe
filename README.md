@@ -16,7 +16,7 @@ Diffprobe currently detects the following traffic discrimination mechanisms:
 
 Sample Output:
 The following is an example output, not taken from any particular ISP:
-# ./prober -a 2
+./prober -a 2
 DiffProbe alpha release. April 2009.
 
 Using tracefile skype-upstream.pcap.
